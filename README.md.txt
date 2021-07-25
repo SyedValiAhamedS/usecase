@@ -2,6 +2,11 @@
 
 This project has CRUD operations for storing/retrieving/updating/delete data into H2 DB. The Organization/Employee/Asset details are stored in DB.
 
+JAVA Version: 1.8
+Spring Boot Version: 2.5.3
+Origin Developer: Syed Vali Ahamed S.
+Project Type: Spring Boot Web
+
 ### Build and Deployment Steps
 
 Step 1:
